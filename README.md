@@ -65,7 +65,7 @@
   <img alt='Asana' src='https://img.shields.io/badge/-Asana-273347?style=flat-square&logo=asana&logoColor=white' />
   <img alt='Amazon AWS' src='https://img.shields.io/badge/-Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white' />
   <img alt='GitHub' src='https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white' />
-    and many more!
+    and many many more!
 </p>
 
 <h2>About me</h2>
