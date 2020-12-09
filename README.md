@@ -4,11 +4,6 @@
 
 <p>I'm <b>{{name}}</b>, a Full Stack Developer from <img alt='Canadian flag' src='https://www.flaticon.com/svg/static/icons/svg/197/197430.svg' width='13'/> <b>Ontario, Canada</b>.</p>
 
-<p>Currently, it is {{city_temperature}}°C outside, with <img alt='weather' src='{{city_weather_icon}}' width='15' /> {{city_weather}}.</p>
-
-<p>Today, the sun rises at {{sun_rise}} and sets at {{sun_set}}.</p>
-
-
 <h2>Programming Languages</h2>
 <p>
   <img alt='JavaScript' src='https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black' />
@@ -24,7 +19,7 @@
   <img alt='Vue' src='https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white' />
   <img alt='Ionic' src='https://img.shields.io/badge/-Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white' />
   <img alt='Graphql' src='https://img.shields.io/badge/-Graphql-E10098?style=flat-square&logo=Graphql&logoColor=white' />
-  <img alt='Apache Kafka' src='https://img.shields.io/badge/-ApacheKafka-092E20?style=flat-square&logo=apache-kafka&logoColor=white' />
+  <img alt='Apache Kafka' src='https://img.shields.io/badge/-Apache Kafka-092E20?style=flat-square&logo=apache kafka&logoColor=white' />
   <img alt='Jest' src='https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white' />
   <img alt='Docker' src='https://img.shields.io/badge/-Docker-3776AB?style=flat-square&logo=docker&logoColor=white' />
   <img alt='Bamboo' src='https://img.shields.io/badge/-Bamboo-0052CC?style=flat-square&logo=Bamboo&logoColor=white' />
@@ -65,7 +60,7 @@
   <img alt='Asana' src='https://img.shields.io/badge/-Asana-273347?style=flat-square&logo=asana&logoColor=white' />
   <img alt='Amazon AWS' src='https://img.shields.io/badge/-Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white' />
   <img alt='GitHub' src='https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white' />
-    and many many more!
+    and many more!
 </p>
 
 <h2>About me</h2>

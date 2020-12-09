@@ -49,8 +49,6 @@ async function generateReadMe() {
 }
 
 async function action() {
-  await setWeatherInfo();
-
   await generateReadMe();
 
   console.log('\x1b[32m\x1b[40m', '📄 README successfully generated!');
