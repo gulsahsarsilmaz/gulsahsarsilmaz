@@ -40,10 +40,11 @@
   <img alt='Sass' src='https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white' />
   <img alt='Bootstrap' src='https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white' />
   <img alt='VSCode' src='https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white' />
-  and many more!
+  and many more!🌟
 </p>
 
 <h2>Productivity tools</h2>
+
 
 <p>
   <img alt='Adobe Creative Cloud' src='https://img.shields.io/badge/-Adobe_Creative_Cloud-DA1F26?style=flat-square&logo=adobe-creative-cloud&logoColor=white' />
@@ -60,12 +61,12 @@
   <img alt='Asana' src='https://img.shields.io/badge/-Asana-273347?style=flat-square&logo=asana&logoColor=white' />
   <img alt='Amazon AWS' src='https://img.shields.io/badge/-Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white' />
   <img alt='GitHub' src='https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white' />
-    and many more!
+    and many more!🌟
 </p>
 
 <h2>About me</h2>
 
-<p>👨‍💻 <b>Day-to-day:</b> Working as a Full Stack Developer, and a Scrum Master at Zensurance <a href='https://www.zensurance.com/' target='_blank'>Zensurance</a>.</p>
+<p>👩‍💻 <b>Day-to-day:</b> Working as a Full Stack Developer, and a Scrum Master at Zensurance <a href='https://www.zensurance.com/' target='_blank'>Zensurance</a>.</p>
 
 <p>🌱 <b>Currently learning:</b> React with Typescript, Grahpql, Hasura, AWS in depth, and so much more!</p>
 
@@ -79,7 +80,7 @@
 
 
 ---
-<h2>Repo Details 👨‍💻</h2>
+<h2>Repo Details 👩‍💻</h2>
 <div align="center">
 
 [![](https://raw.githubusercontent.com/gulsahsarsilmaz/gulsahsarsilmaz/master/profile-summary-card-output/nord_bright/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
