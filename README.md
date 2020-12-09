@@ -77,6 +77,17 @@
   <a href='mailto:sarsilmazgulsah@gmail.com' target='_blank'><img alt='Email' src='https://img.shields.io/badge/email-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white' /></a>
 </p>
 
+
+---
+<h2>Repo Details</h2>
+<div align="center">
+
+[![](https://raw.githubusercontent.com/gulsahsarsilmaz/gulsahsarsilmaz/master/profile-summary-card-output/nord_bright/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+[![](https://raw.githubusercontent.com/gulsahsarsilmaz/gulsahsarsilmaz/master/profile-summary-card-output/nord_bright/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
+[![](https://raw.githubusercontent.com/gulsahsarsilmaz/gulsahsarsilmaz/master/profile-summary-card-output/nord_bright/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+</div>
+
 ---
 
 <p align='center'>
