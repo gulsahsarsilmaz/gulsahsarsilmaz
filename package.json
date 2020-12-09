@@ -11,12 +11,15 @@
     "url": "git+https://github.com/gulsahsarsilmaz/gulsahsarsilmaz.git"
   },
   "author": "Gulsah Sarsilmaz",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/gulsahsarsilmaz/gulsahsarsilmaz/issues"
   },
   "homepage": "https://github.com/gulsahsarsilmaz/gulsahsarsilmaz#readme",
   "dependencies": {
-    "mustache": "^4.0.1"
+    "dotenv": "^8.2.0",
+    "mustache": "^4.1.0",
+    "node-fetch": "^2.6.1",
+    "xml2js": "^0.4.23"
   }
 }

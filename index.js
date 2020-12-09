@@ -1,15 +1,13 @@
-// index.js
-const Mustache = require('mustache');
+require('dotenv').config();
 const fs = require('fs');
+const Mustache = require('mustache');
+const fetch = require('node-fetch')
+
 const MUSTACHE_MAIN_DIR = './main.mustache';
-/**
-  * DATA is the object that contains all
-  * the data to be provided to Mustache
-  * Notice the "name" and "date" property.
-*/
+
 let DATA = {
   name: 'Gulsah',
-  date: new Date().toLocaleDateString('en-GB', {
+  refresh_date: new Date().toLocaleDateString('en-us', {
     weekday: 'long',
     month: 'long',
     day: 'numeric',
@@ -19,16 +17,43 @@ let DATA = {
     timeZone: 'America/Toronto',
   }),
 };
-/**
-  * A - We open 'main.mustache'
-  * B - We ask Mustache to render our file with the data
-  * C - We create a README.md file with the generated output
-  */
-function generateReadMe() {
-  fs.readFile(MUSTACHE_MAIN_DIR, (err, data) => {
+
+async function setWeatherInfo() {
+  await fetch(
+    `https://api.openweathermap.org/data/2.5/weather?lat=${process.env.LOCATION_LAT}&lon=${process.env.LOCATION_LON}&appid=${process.env.OPEN_WEATHER_MAP_KEY}&units=metric`
+  )
+    .then(response => response.json())
+    .then(response => {
+      DATA.city_temperature = Math.round(response.main.temp);
+      DATA.city_weather = response.weather[0].description;
+      DATA.city_weather_icon = `https://openweathermap.org/img/wn/${response.weather[0].icon}@2x.png`;
+      DATA.sun_rise = new Date(response.sys.sunrise * 1000).toLocaleString('en-GB', {
+        hour: '2-digit',
+        minute: '2-digit',
+        timeZone: 'America/Toronto',
+      });
+      DATA.sun_set = new Date(response.sys.sunset * 1000).toLocaleString('en-GB', {
+        hour: '2-digit',
+        minute: '2-digit',
+        timeZone: 'America/Toronto',
+      });
+    });
+}
+
+async function generateReadMe() {
+  await fs.readFile(MUSTACHE_MAIN_DIR, (err, data) => {
     if (err) throw err;
     const output = Mustache.render(data.toString(), DATA);
     fs.writeFileSync('README.md', output);
   });
 }
-generateReadMe();
+
+async function action() {
+  await setWeatherInfo();
+
+  await generateReadMe();
+
+  console.log('\x1b[32m\x1b[40m', '📄 README successfully generated!');
+}
+
+action();
