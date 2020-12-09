@@ -51,8 +51,8 @@
   <img alt='Confluence' src='https://img.shields.io/badge/-Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white' />
   <img alt='Microsoft Office' src='https://img.shields.io/badge/-Microsoft_Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=white' />
   <img alt='Microsoft Excel' src='https://img.shields.io/badge/-Microsoft_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white' />
-  <img alt='Google Analytics' src='https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white' />
-  <img alt='Postman' src='https://img.shields.io/badge/-Google_Analytics-E37400?style=flat-square&logo=google-analytics&logoColor=white' />
+  <img alt='Postman' src='https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white' />
+  <img alt='Google Analytics' src='https://img.shields.io/badge/-Google_Analytics-E37400?style=flat-square&logo=google-analytics&logoColor=white' />
   <img alt='Netlify' src='https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white' />
   <img alt='Zoom' src='https://img.shields.io/badge/-Zoom-2D8CFF?style=flat-square&logo=zoom&logoColor=white' />
   <img alt='Trello' src='https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=trello&logoColor=white' />
@@ -79,7 +79,7 @@
 
 
 ---
-<h2>Repo Details</h2>
+<h2>Repo Details 👨‍💻</h2>
 <div align="center">
 
 [![](https://raw.githubusercontent.com/gulsahsarsilmaz/gulsahsarsilmaz/master/profile-summary-card-output/nord_bright/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
