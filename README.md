@@ -66,7 +66,7 @@
 
 <h2>About me</h2>
 
-<p>👩‍💻 <b>Day-to-day:</b> Working as a Full Stack Developer, and a Scrum Master at <a href='https://www.zensurance.com/' target='_blank'>Zensurance</a>.</p>
+<p>👩‍💻 <b>Day-to-day:</b> Working as a Full Stack Developer, and a Scrum Master.</p>
 
 <p>🌱 <b>Currently learning:</b> React with Typescript, Grahpql, Hasura, AWS in depth, and so much more!</p>
 
