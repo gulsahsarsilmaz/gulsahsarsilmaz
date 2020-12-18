@@ -2,7 +2,8 @@ name: Build README
 
 on:
   push:
-    branches: [main]
+    branches:
+      - main
   schedule:
     - cron: "0 */3 * * *"
 
@@ -12,7 +13,7 @@ jobs:
 
     strategy:
       matrix:
-        node-version: [14.x]
+        node-version: [15.x]
 
     steps:
       - name: Checkout code
@@ -32,15 +33,25 @@ jobs:
       - name: Install dependencies
         run: npm ci # installs packages with a clean slate (ci refers to continuous integration)
 
+      - name: Generate profile card
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+
       - name: Generate README file
         run: node index.js
         env:
+          GOODREADS_KEY: ${{secrets.GOODREADS_KEY}}
+          GOODREADS_USER_ID: ${{secrets.GOODREADS_USER_ID}}
           LOCATION_LAT: ${{secrets.LOCATION_LAT}}
           LOCATION_LON: ${{secrets.LOCATION_LON}}
           OPEN_WEATHER_MAP_KEY: ${{secrets.OPEN_WEATHER_MAP_KEY}}
+          STEAM_ID: ${{secrets.STEAM_ID}}
+          STEAM_KEY: ${{secrets.STEAM_KEY}}
 
       - name: Push newly-generated README file
         uses: mikeal/publish-to-github-action@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          BRANCH_NAME: 'main'
