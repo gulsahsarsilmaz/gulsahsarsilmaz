@@ -66,7 +66,7 @@
 
 <h2>About me</h2>
 
-<p>👩‍💻 <b>Day-to-day:</b> Working as a Team Lead, Enginnering, and a Scrum Master at <a href='https://www.zensurance.com/' target='_blank'>Zensurance</a>.</p>
+<p>👩‍💻 <b>Day-to-day:</b> Working as a Full Stack Developer, and a Scrum Master at <a href='https://www.zensurance.com/' target='_blank'>Zensurance</a>.</p>
 
 <p>🌱 <b>Currently learning:</b> React with Typescript, Grahpql, Hasura, AWS in depth, and so much more!</p>
 
@@ -92,5 +92,5 @@
 ---
 
 <p align='center'>
-  This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Thursday, November 4, 8:29 AM EDT<br /><a href='https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91'>Create your own here!</a>
+  This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Thursday, November 4, 10:03 AM EDT<br /><a href='https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91'>Create your own here!</a>
 </p>
