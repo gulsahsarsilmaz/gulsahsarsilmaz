@@ -2,7 +2,7 @@
 
 <p>Welcome 👋</p>
 
-<p>I'm <b>Gulsah</b>, a Full Stack Developer from <b>Ontario, Canada</b>.</p>
+<p>I'm <b>Gulsah</b>, a Full Stack Developer from <img alt='Canadian flag' src='https://www.flaticon.com/svg/static/icons/svg/197/197430.svg' width='13'/> <b>Ontario, Canada</b>.</p>
 
 <h2>Programming Languages</h2>
 <p>
@@ -92,5 +92,5 @@
 ---
 
 <p align='center'>
-  This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Friday, February 11, 10:17 PM EST<br /><a href='https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91'>Create your own here!</a>
+  This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Saturday, February 12, 12:03 AM EST<br /><a href='https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91'>Create your own here!</a>
 </p>
