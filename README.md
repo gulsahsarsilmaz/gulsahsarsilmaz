@@ -2,7 +2,7 @@
 
 <p>Welcome 👋</p>
 
-<p>I'm <b>Gulsah</b>, a Full Stack Developer from <img alt='Canadian flag' src='https://www.flaticon.com/svg/static/icons/svg/197/197430.svg' width='13'/> <b>Ontario, Canada</b>.</p>
+<p>I'm <b>Gulsah</b>, a Full Stack Developer from 🇨🇦 <b>Ontario, Canada</b>.</p>
 
 <h2>Programming Languages</h2>
 <p>
