@@ -2,7 +2,7 @@
 
 <p>Welcome 👋</p>
 
-<p>I'm <b>Gulsah</b>, a Full Stack Developer from <img alt='Canadian flag' src='https://www.flaticon.com/svg/static/icons/svg/197/197430.svg' width='13'/> <b>Ontario, Canada</b>.</p>
+<p>I'm <b>Gulsah</b>, a Full Stack Developer from <b>Ontario, Canada</b>.</p>
 
 <h2>Programming Languages</h2>
 <p>
@@ -45,7 +45,6 @@
 
 <h2>Productivity tools</h2>
 
-
 <p>
   <img alt='Adobe Creative Cloud' src='https://img.shields.io/badge/-Adobe_Creative_Cloud-DA1F26?style=flat-square&logo=adobe-creative-cloud&logoColor=white' />
   <img alt='Jira' src='https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white' />
@@ -78,15 +77,16 @@
   <a href='mailto:sarsilmazgulsah@gmail.com' target='_blank'><img alt='Email' src='https://img.shields.io/badge/email-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white' /></a>
 </p>
 
-
 ---
+
 <h2>Repo Details 👩‍💻</h2>
 <div align="center">
 
 [![](https://raw.githubusercontent.com/gulsahsarsilmaz/gulsahsarsilmaz/master/profile-summary-card-output/nord_bright/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-[![](https://raw.githubusercontent.com/gulsahsarsilmaz/gulsahsarsilmaz/master/profile-summary-card-output/nord_bright/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
+[![](https://raw.githubusercontent.com/gulsahsarsilmaz/gulsahsarsilmaz/master/profile-summary-card-output/nord_bright/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/gulsahsarsilmaz/gulsahsarsilmaz/master/profile-summary-card-output/nord_bright/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 </div>
 
 ---
