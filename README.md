@@ -92,5 +92,5 @@
 ---
 
 <p align='center'>
-  This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Saturday, January 20, 10:16 PM EST<br /><a href='https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91'>Create your own here!</a>
+  This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Sunday, January 21, 1:20 AM EST<br /><a href='https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91'>Create your own here!</a>
 </p>
