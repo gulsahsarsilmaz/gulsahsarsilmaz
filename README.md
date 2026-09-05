@@ -2,7 +2,7 @@
 
 <p>Welcome 👋</p>
 
-<p>I'm <b>Gulsah</b>, a Team Lead of Engineering from <b>Ontario, Canada</b>, passionate about building scalable solutions and leading high-performing development teams.</p>
+<p>I'm <b>Gulsah</b>, a Manager of Engineering from <b>Ontario, Canada</b>, passionate about building scalable solutions and leading high-performing development teams.</p>
 
 <h2>Programming Languages</h2>
 <p>
